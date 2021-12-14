@@ -10,3 +10,10 @@ h2 {
   text-align: left;
   color: red;
 }
+
+p {
+  text-align: center;
+
+  display: flex;
+  justify-content: space-around;
+}
