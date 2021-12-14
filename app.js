@@ -1,1 +1,1 @@
-alert('God is good');
+alert('God is good, all the time');
