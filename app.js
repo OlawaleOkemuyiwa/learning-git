@@ -13,5 +13,6 @@ function multiply(x, y) {
 const waleDetails = (function() {
   return {
     name: 'Wale',
-    country: 'Nigeria'
+    country: 'Nigeria' 
+  }
 })();
