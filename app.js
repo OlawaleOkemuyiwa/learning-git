@@ -1,7 +1,11 @@
+function reverseString(str) {
+  return str.split('').reverse().join('');
+};
+
 function add(x, y) {
   return x + y
 };
 
-function reverseString(str) {
-  return str.split('').reverse().join('');
-}
+function multiply(x, y) {
+  return x * y
+};
