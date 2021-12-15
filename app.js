@@ -9,3 +9,9 @@ function add(x, y) {
 function multiply(x, y) {
   return x * y
 };
+
+const waleDetails = (function() {
+  return {
+    name: 'Wale',
+    country: 'Nigeria'
+})();
